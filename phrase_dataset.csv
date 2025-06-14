@@ -1,0 +1,6 @@
+val_sequence,phrase_hmar,phrase_en
+11001-11002-11003,iem i thaw,what are you doing?
+11001-11002-11004,iem i hming,what is your name?
+11002-11004-11001-11006,i hming Iem ani,what is your name?
+11001-11006-11002-11004,iem ani i hming,what is your name?
+11001-11002-11003-11005,iem i thaw hlak,what do you do?
